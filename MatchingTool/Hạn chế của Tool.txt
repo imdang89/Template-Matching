@@ -1,0 +1,3 @@
+- Các đối tượng quá gần nhau có thể bắt không ổn định
+- Các đối tượng có hình dạng gần giống nhau có thể bị bắt ảo
+
